@@ -1,0 +1,6 @@
+/venv
+.env
+/calculator
+lorem.txt
+output.txt
+__pycache__
